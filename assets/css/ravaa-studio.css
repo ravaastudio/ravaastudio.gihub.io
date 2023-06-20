@@ -2822,12 +2822,12 @@ body {
 }
 
 @media (max-width: 992px) {
-  .header-area .main-nav .nav li:first-child {
+  /* .header-area .main-nav .nav li:first-child {
     padding-left: 15px !important;
   }
   .header-area .main-nav .nav li:last-child {
     padding-right: 15px !important;
-  }
+  } */
   .header-area .main-nav .nav li ul li:first-child {
     padding-left: 0px !important;
   }
